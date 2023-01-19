@@ -1,4 +1,5 @@
-# Objetivo Este proyecto consiste en la landing page de Dekko 
+# Objetivo 
+Este proyecto consiste en la landing page de Dekko 
 
 ![captura](https://user-images.githubusercontent.com/112987800/213326941-bc957b54-ab87-465a-9a73-1ea08c2e8718.png)
 
